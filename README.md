@@ -23,11 +23,11 @@ Reading group schedule of multi-NLP group in Tianjin University
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| 11/07 | -              | No meeting - ACL2020 deadline |
-| 11/14 | -              | No meeting - ACL2020 deadline |
-| 11/21 | -              | No meeting - ACL2020 deadline |
-| 11/28 | -              | No meeting - ACL2020 deadline |
-| 12/05 | Wanqiu Long    |  |
+| 11/04 | -              | No meeting - ACL2020 deadline |
+| 11/11 | -              | No meeting - ACL2020 deadline |
+| 11/18 | -              | No meeting - ACL2020 deadline |
+| 11/25 | -              | No meeting - ACL2020 deadline |
+| 12/02 | Wanqiu Long    |  |
 
 ## Presenter
 Please let Dexin know what paper you are going to present and your summary by the end of Sunday of your presentation week. Also, please send your slides or a link to them to Dexin once you finish preparing them.

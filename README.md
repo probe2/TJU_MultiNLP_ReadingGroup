@@ -2,7 +2,7 @@
 Reading group schedule of multi-NLP group in Tianjin University <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/en/9/9d/TJU_logo.png" width="300" align="center"> </p>
 
 ## Time
-- Reading Group: Monday 2PM - 4PM, No. 55 A311 Teaching Building, Beiyang Campus.
+- Reading Group: Monday 2PM - 4PM, No. 55 Teaching Building, Beiyang Campus.
 
 
 
@@ -18,7 +18,7 @@ Reading group schedule of multi-NLP group in Tianjin University <p align="center
 
 ## Current Schedule
 
-### Reading Group: Monday 2PM - 4PM, No. 55 A311 Teaching Building, Beiyang Campus
+### Reading Group: Monday 2PM - 4PM, No. 55 Teaching Building, Beiyang Campus
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|

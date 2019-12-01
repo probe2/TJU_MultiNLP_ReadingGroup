@@ -1,4 +1,4 @@
-# TJU_MultiNLP_ReadingGroup
+## TJU MultiNLP Reading Group
 <img src="https://upload.wikimedia.org/wikipedia/en/9/9d/TJU_logo.png" width="150" align="right">
 Reading group schedule of multi-NLP group in Tianjin University 
 

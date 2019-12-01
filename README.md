@@ -1,6 +1,3 @@
-## Node
-Many thanks to [vt-vl-lab](https://github.com/vt-vl-lab/reading_group) for that the reading-group template is forked from their repositories.
-
 # TJU_MultiNLP_ReadingGroup
 Reading group schedule of multi-NLP group of Tianjin University
 
@@ -9,7 +6,7 @@ Time
 
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/9/9d/TJU_logo.png" width="648" align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9d/TJU_logo.png" width="350" align="center">
 </p>
 
 ## Table of Contents
@@ -67,4 +64,5 @@ We will be reading papers appearing in the leading computer vision conferences (
 #### Who can join?
 We are open to everyone who is interested, whether you are an undergrad, a grad student, or VT staff, regardless of department. Anyone else in the Blacksburg area is also welcome. As long as you are interested in learning more about the fields (by reading cutting-edge research papers), you are welcome to join.
 
-
+## Node
+Many thanks to [vt-vl-lab](https://github.com/vt-vl-lab/reading_group) for that the reading-group template is forked from their repositories.

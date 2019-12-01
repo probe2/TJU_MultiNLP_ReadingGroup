@@ -1,5 +1,5 @@
 # TJU_MultiNLP_ReadingGroup
-<img src="https://upload.wikimedia.org/wikipedia/en/9/9d/TJU_logo.png" width="100" align="right">
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9d/TJU_logo.png" width="200" align="right">
 Reading group schedule of multi-NLP group in Tianjin University 
 
 ## Time
